@@ -11,8 +11,8 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
 -- Volcando estructura de base de datos para programacionweb
-CREATE DATABASE IF NOT EXISTS `programacionweb` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `programacionweb`;
+CREATE DATABASE IF NOT EXISTS `u570417991_cuti` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `u570417991_cuti`;
 
 
 -- Volcando estructura para tabla programacionweb.personas
